@@ -1,0 +1,24 @@
+.admin_dashboard {
+  width: 100%;
+  height: 91vh;
+  background: white;
+  /* border-bottom: 2px solid #fcebe3; */
+  /* margin: 72px 0 -72px 0; */
+}
+
+.admin_content {
+  padding-top: 15vh;
+}
+
+
+.admin_card {
+  background-color: whitesmoke;
+  margin-bottom: 20vh;
+  border-radius: 10px;
+  height: 100%;
+  padding: 5vh 0vh;
+}
+.admin_card h2 {
+  color: dodgerblue;
+}
+
